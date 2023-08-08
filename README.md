@@ -1,1 +1,1 @@
-# Fraud-Detection
+# Machine Learning Practical: 6 Real-World Applications
