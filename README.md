@@ -74,6 +74,6 @@ So if you want to get hands-on experience which you can add to your portfolio, t
 
 Enroll now and we’ll see you inside.
 
-Who this course is for:
+## Who this course is for?
 Data Science and Machine Learning enthusiasts who want to understand how real data science projects look like.
 Anyone with Machine Learning and Python knowledge who wants to practice their skills
