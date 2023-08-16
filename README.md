@@ -34,22 +34,14 @@ This course provides a hands-on approach to real-life challenges and covers exac
 
 There are most exciting case studies including:
 
-●      diagnosing diabetes in the early stages
-
-●      directing customers to subscription products with app usage analysis
-
-●      minimizing churn rate in finance
-
-●      predicting customer location with GPS data
-
-●      forecasting future currency exchange rates
-
-●      classifying fashion
-
-●      predicting breast cancer
-
-●      and much more!
-
+- diagnosing diabetes in the early stages
+- directing customers to subscription products with app usage analysis
+- minimizing churn rate in finance
+- predicting customer location with GPS data
+- forecasting future currency exchange rates
+- classifying fashion
+- predicting breast cancer
+- and much more!
  
 
 All real.
